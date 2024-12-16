@@ -1,1 +1,32 @@
+.project {
+    margin: 20px 0;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
 
+.project-details {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.analysis-section {
+    margin: 40px 0;
+}
+
+.analysis-section img {
+    max-width: 100%;
+    height: auto;
+    margin: 20px 0;
+}
+
+.project-link {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #0366d6;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 10px;
+}
